@@ -1,7 +1,9 @@
+[ReadMe.txt](https://github.com/kuna71/NEWS-SCRAPING-MODULE/files/10417161/ReadMe.txt)
 # NEWS-SCRAPING-MODULE
 This module scrapes Twitter, Facebook, Reddit and Google News for specific articles as per choice.
 
-STEPS:
+STEPS: 
+
     1. ENVIRONMENT:
         Install dependencies by executing "pip install -r requirements.txt" in the terminal
     2. TWITTER SETUP:
