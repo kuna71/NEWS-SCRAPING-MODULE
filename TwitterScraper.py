@@ -131,4 +131,3 @@ def ScrapeTwitter(words, numtweet):
         print("average: " + str(avg))
         # return_queue.put([article_tweet_data, non_article_tweet_data])
         return article_tweet_data
-# ScrapeTwitter("india ", 100)
