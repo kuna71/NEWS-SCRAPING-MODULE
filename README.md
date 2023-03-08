@@ -21,4 +21,4 @@ STEPS:
         c. Search your topic of choice on google news, copy URL of page and paste in GOOGLE_NEWS_LINK
         d. Get group ids of facebook groups to search for articles and put in FACEBOOK_GROUPS as list of strings
 
-OUTPUT WILL BE IN CSV FORMAT, saved as "<date>_scrape_output.csv"
+OUTPUT WILL BE IN CSV FORMAT, saved as "(date)_scrape_output.csv"
